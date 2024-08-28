@@ -53,7 +53,7 @@ body .btn-info{
 
 nav ~ button:hover{
     background-color: #003E7A !important ;
-    color: #FFDE74 !important;
+    color: #FFDE74 !important; 
 }
 nav ~ button {
     background-color: #FFDE74 !important;;
