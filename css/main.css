@@ -1,0 +1,66 @@
+.footer-img{
+    background-image: url("footer_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.footer-btn{
+}
+footer, footer a{
+    color:white;
+
+}
+footer .btn{
+
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.breadcrumb a {
+    color: black;
+    text-decoration: none
+
+}
+.col-3 a{
+    color: black;
+    text-decoration: none
+}
+body .text-bg-primary{
+    background-color: #0a53be !important;
+
+}
+body .btn-primary{
+    background-color: #0a53be !important;
+}
+
+body .btn-warning{
+    color: #003E7A !important;
+    background-color:  #FFDE74 !important;
+}
+
+body .btn-info{
+    background-color: #2D76BB !important;
+}
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav ~ button:hover{
+    background-color: #003E7A !important ;
+    color: #FFDE74 !important;
+}
+nav ~ button {
+    background-color: #FFDE74 !important;;
+    color: #003E7A !important ;
+}
+
+nav:focus{
+    background-color: #003E7A !important ;
+    color: #FFDE74 !important;
+}
