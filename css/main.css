@@ -51,16 +51,16 @@ body .btn-info{
     background-size: cover;
 }
 
-nav ~ button:hover{
+.tab :hover{
     background-color: #003E7A !important ;
-    color: #FFDE74 !important; 
+    color: #FFDE74 !important;
 }
-nav ~ button {
+.tab {
     background-color: #FFDE74 !important;;
     color: #003E7A !important ;
 }
 
-nav:focus{
+.tab :focus{
     background-color: #003E7A !important ;
     color: #FFDE74 !important;
 }
