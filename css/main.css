@@ -51,7 +51,7 @@ body .btn-info{
     background-size: cover;
 }
 
-.tab :hover{
+.tab:hover{
     background-color: #003E7A !important ;
     color: #FFDE74 !important;
 }
@@ -60,7 +60,7 @@ body .btn-info{
     color: #003E7A !important ;
 }
 
-.tab :focus{
+.tab:focus{
     background-color: #003E7A !important ;
     color: #FFDE74 !important;
 }
